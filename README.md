@@ -36,3 +36,9 @@ var	editor = ace.edit("aceEditor");
 	editor.setHighlightActiveLine(true);
 ```    
 
+##Example application
+To make life a little easier I have created a very simple demo. Simply navigate into the 'example' demo and run:
+```js
+mrt
+```
+This will download and install the meteor-ace-embed smart package and run the app.
