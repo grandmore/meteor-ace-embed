@@ -5,7 +5,7 @@ Package.describe({
 //var bundlerApi = null
 var path = Npm.require("path"),
 	fs = Npm.require("fs"),
-	packagePath = path.join(path.resolve("."), "packages", "ace-jquery");
+	packagePath = path.join(path.resolve("."), "packages", "ace-embed");
 
 Package.on_use(function (api, where) {
 	api.use(['jquery', "templating", "underscore", "deps"], ["client"]);
