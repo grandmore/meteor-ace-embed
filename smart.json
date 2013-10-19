@@ -1,9 +1,9 @@
 {
   "name":"ace-embed",
-  "description":"Add Ace editor to Meteor. I needed the latest version and could not get any other package to work so I created a new one.",
+  "description":"Add Ace editor to Meteor. A simple way to get the latest version of Ace installed into meteor via meteorite/atmosphere.",
   "homepage":"https://github.com/stuartfenton/meteor-ace-embed",
   "author": "Stuart Fenton <stuart@overlima.com>",
-  "version":"0.0.3",
+  "version":"0.0.4",
   "git": "https://github.com/stuartfenton/meteor-ace-embed.git",
   "packages":{}
 }
