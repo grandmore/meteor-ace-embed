@@ -3,7 +3,7 @@
   "description":"Add Ace editor to Meteor. I needed the latest version and could not get any other package to work so I created a new one.",
   "homepage":"https://github.com/stuartfenton/meteor-ace-embed",
   "author": "Stuart Fenton <stuart@overlima.com>",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "git": "https://github.com/stuartfenton/meteor-ace-embed.git",
   "packages":{}
 }
