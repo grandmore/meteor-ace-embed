@@ -1,6 +1,6 @@
 meteor-ace-embed
 ================
-Add Ace editor to Meteor. 
+Add [Ace editor](http://ace.c9.io) to [Meteor](http://meteor.com).
 
 A simple way to get the latest version of Ace installed into meteor via meteorite/atmosphere.
 
